@@ -1,10 +1,10 @@
 # Tanegashima_Rocket_Contest_2023
 
-Last Update:2022/03/07 AL21017 Joe Kohzen
+Last Update:2022/03/07 Yuzu
 
 Tanegashima Rocket Contest 2023 Runback Program
 
------ Software Configuration ------------------------------------
+## Software Configuration
 
 - Language : Python 3.9.2
 - OS       : Raspberry Pi OS Lite (32-bit)
@@ -12,7 +12,7 @@ Tanegashima Rocket Contest 2023 Runback Program
 - Kernel   : Ver.5.15
 - OpenCV   : Ver.4.7.0
 
------ Hardware Configuration ------------------------------------
+## Hardware Configuration
 
 - Microcomputer              : Raspberry pi Zero WH
 - GPS                        : GYSFDMAXB
@@ -22,7 +22,7 @@ Tanegashima Rocket Contest 2023 Runback Program
 - Motor Driver               : BD6231F
 - GPIO Expander              : MCP23017
 
------ Program Configuration -------------------------------------
+## Program Configuration
 
 - main.py
     Main program. Also performs stack processing and error handling.
@@ -43,7 +43,7 @@ Tanegashima Rocket Contest 2023 Runback Program
 - motor.py
     Class to move tires. Controls the operation of the body and separation mechanism.
 
------ Dependency ----------------------------------------
+## Dependency 
 
    main.py
    |
@@ -65,7 +65,7 @@ Tanegashima Rocket Contest 2023 Runback Program
    |     
    |---img_proc.py
 
------ Set Up --------------------------------------------
+## Set Up 
 
 - /boot/config.txt
 dtoverlay=dwc2
@@ -166,7 +166,7 @@ Activation gpsd.socket
 $sudo systemctl enable gpsd.socket
 
 
------ Troubleshooting & Commands --------------------------
+## Troubleshooting & Commands 
 
 Change settings
 $sudo raspi-config
@@ -257,7 +257,7 @@ $sudo raspivid -t millisec -o vidoname.h264
 Convert h264 to mp4
 $MP4Box -add filename.h264 filename.mp4
 
------ Comment ---------------------------------------------
+## Comment 
 
 製作の遅れによって、プログラムの細かな調整等ができなかった。
 エラー処理やスタック判定など、もっと洗練したものにしたかった。
