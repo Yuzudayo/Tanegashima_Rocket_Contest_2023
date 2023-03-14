@@ -2,7 +2,7 @@
     TANEGASHIMA ROCKET EVENT 2023
     PENGUIN_PANM MAIN PROGRAM
     
-    Author : Joe Kohzen
+    Author : Yuzu
     Language : Python Ver.3.9.2
     Last Update : 03/05/2023
 """
