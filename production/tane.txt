@@ -1,0 +1,2114 @@
+Hello World!!
+Initializing
+start
+phase :  1
+initial altitude
+altitude : -108.49930452634605
+Rising phase
+altitude : -107.97698321679268
+Rising
+altitude : -107.97698321679268
+Rising
+altitude : -108.20625966165265
+Rising
+altitude : -108.42921867597786
+Rising
+altitude : -108.42921867597786
+Rising
+altitude : -109.69681538968186
+Rising
+altitude : -109.69681538968186
+Rising
+altitude : -109.32739117278176
+Rising
+altitude : -109.32739117278176
+Rising
+altitude : -108.58842855357547
+Rising
+altitude : -108.58842855357547
+Rising
+altitude : -109.33378613281263
+Rising
+altitude : -109.33378613281263
+Rising
+altitude : -110.08554584514087
+Rising
+altitude : -110.08554584514087
+Rising
+altitude : -109.56954419907399
+Rising
+altitude : -109.56954419907399
+Rising
+altitude : -109.12355211049812
+Rising
+altitude : -109.12355211049812
+Rising
+altitude : -108.50565166998757
+Rising
+altitude : -108.50565166998757
+Rising
+altitude : -109.8053298851479
+Rising
+altitude : -109.8053298851479
+Rising
+altitude : -109.65877728221662
+Rising
+altitude : -109.65877728221662
+Rising
+altitude : -109.96466585555495
+Rising
+altitude : -109.96466585555495
+Rising
+altitude : -109.59504367252543
+Rising
+altitude : -109.59504367252543
+Rising
+altitude : -109.59504367252543
+Rising
+altitude : -109.59504367252543
+Rising
+altitude : -109.59504367252543
+Rising
+altitude : -109.45479368468996
+Rising
+altitude : -109.45479368468996
+Rising
+altitude : -108.5624073390605
+Rising
+altitude : -108.5624073390605
+Rising
+altitude : -107.97571589472376
+Rising
+altitude : -107.97571589472376
+Rising
+altitude : -107.30623551122466
+Rising
+altitude : -107.30623551122466
+Rising
+altitude : -106.0495810988844
+Rising
+altitude : -106.0495810988844
+Rising
+altitude : -105.46228573421034
+Rising
+altitude : -105.46228573421034
+Rising
+altitude : -105.61513798116209
+Rising
+altitude : -105.61513798116209
+Rising
+altitude : -104.58100236622634
+Rising
+altitude : -104.58100236622634
+Rising
+altitude : -104.58100236622634
+Rising
+altitude : -104.13432720766455
+Rising
+altitude : -104.13432720766455
+Rising
+altitude : -103.68762529566715
+Rising
+altitude : -103.68762529566715
+Rising
+altitude : -102.12968704400858
+Rising
+altitude : -102.12968704400858
+Rising
+altitude : -101.91196655546375
+Rising
+altitude : -101.91196655546375
+Rising
+altitude : -100.57117749462381
+Rising
+altitude : -100.57117749462381
+Rising
+altitude : -100.12419424656963
+Rising
+altitude : -100.12419424656963
+Falling
+altitude : -100.12419424656963
+Falling
+altitude : -99.16478185179133
+Falling
+altitude : -99.16478185179133
+Falling
+altitude : -99.16478185179133
+Falling
+altitude : -99.16478185179133
+Falling
+altitude : -98.87033801646358
+Falling
+altitude : -98.87033801646358
+Falling
+altitude : -98.87033801646358
+Falling
+altitude : -98.87033801646358
+Falling
+altitude : -97.82870321392905
+Falling
+altitude : -97.82870321392905
+Falling
+altitude : -97.82870321392905
+Falling
+altitude : -97.82870321392905
+Falling
+altitude : -97.23415432440008
+Falling
+altitude : -97.23415432440008
+Falling
+altitude : -97.23415432440008
+Falling
+altitude : -97.23415432440008
+Falling
+altitude : -96.34480828574455
+Falling
+altitude : -96.34480828574455
+Falling
+altitude : -96.34480828574455
+Falling
+altitude : -96.34480828574455
+Falling
+altitude : -99.13175904670098
+Falling
+altitude : -99.13175904670098
+Falling
+altitude : -99.13175904670098
+Falling
+altitude : -99.13175904670098
+Falling
+altitude : -94.48398242257754
+Falling
+altitude : -94.48398242257754
+Falling
+altitude : -94.48398242257754
+Falling
+altitude : -94.48398242257754
+Falling
+altitude : -94.18903165089394
+Falling
+altitude : -94.18903165089394
+Falling
+altitude : -94.18903165089394
+Falling
+altitude : -94.18903165089394
+Falling
+altitude : -93.67024510188543
+Falling
+altitude : -93.67024510188543
+Falling
+altitude : -93.67024510188543
+Falling
+altitude : -93.67024510188543
+Falling
+altitude : -93.37518312035515
+Falling
+altitude : -93.37518312035515
+Falling
+altitude : -93.37518312035515
+Falling
+altitude : -93.37518312035515
+Falling
+altitude : -92.70865738235446
+Falling
+altitude : -92.70865738235446
+Falling
+altitude : -92.70865738235446
+Falling
+altitude : -92.70865738235446
+Falling
+altitude : -91.66556801958706
+Falling
+altitude : -91.66556801958706
+Falling
+altitude : -91.66556801958706
+Falling
+altitude : -91.66556801958706
+Falling
+altitude : -91.07492351627346
+Falling
+altitude : -91.07492351627346
+Falling
+altitude : -91.07492351627346
+Falling
+altitude : -91.07492351627346
+Falling
+altitude : -90.25538924571161
+Falling
+altitude : -90.25538924571161
+Falling
+altitude : -90.25538924571161
+Falling
+altitude : -90.25538924571161
+Falling
+altitude : -90.25538924571161
+Falling
+altitude : -89.6597077464483
+Falling
+altitude : -89.6597077464483
+Falling
+altitude : -89.6597077464483
+Falling
+altitude : -89.6597077464483
+Falling
+altitude : -88.24407649751912
+Falling
+altitude : -88.24407649751912
+Falling
+altitude : -88.24407649751912
+Falling
+altitude : -88.24407649751912
+Falling
+altitude : -87.20000363604144
+Falling
+altitude : -87.20000363604144
+Falling
+altitude : -87.20000363604144
+Falling
+altitude : -87.20000363604144
+Falling
+altitude : -85.11125843278892
+Falling
+altitude : -85.11125843278892
+Falling
+altitude : -85.11125843278892
+Falling
+altitude : -85.11125843278892
+Falling
+altitude : -86.30808632198676
+Falling
+altitude : -86.30808632198676
+Falling
+altitude : -86.30808632198676
+Falling
+altitude : -86.30808632198676
+Falling
+altitude : -83.84239893341413
+Falling
+altitude : -83.84239893341413
+Falling
+altitude : -83.84239893341413
+Falling
+altitude : -83.84239893341413
+Falling
+altitude : -84.89142313524223
+Falling
+altitude : -84.89142313524223
+Falling
+altitude : -84.89142313524223
+Falling
+altitude : -84.89142313524223
+Falling
+altitude : -82.94974923526252
+Falling
+altitude : -82.94974923526252
+Falling
+altitude : -82.94974923526252
+Falling
+altitude : -82.94974923526252
+Falling
+altitude : -82.80164127267184
+Falling
+altitude : -82.80164127267184
+Falling
+altitude : -82.80164127267184
+Falling
+altitude : -82.80164127267184
+Falling
+altitude : -80.63893682837748
+Falling
+altitude : -80.63893682837748
+Falling
+altitude : -80.63893682837748
+Falling
+altitude : -80.63893682837748
+Falling
+altitude : -81.0955848766826
+Falling
+altitude : -81.0955848766826
+Falling
+altitude : -81.0955848766826
+Falling
+altitude : -81.0955848766826
+Falling
+altitude : -80.04592488415821
+Falling
+altitude : -80.04592488415821
+Falling
+altitude : -80.04592488415821
+Falling
+altitude : -80.04592488415821
+Falling
+altitude : -80.04592488415821
+Falling
+altitude : -80.20204097319343
+Falling
+altitude : -80.20204097319343
+Falling
+altitude : -80.20204097319343
+Falling
+altitude : -80.20204097319343
+Falling
+altitude : -78.03006144274403
+Falling
+altitude : -78.03006144274403
+Falling
+altitude : -78.03006144274403
+Falling
+altitude : -78.03006144274403
+Falling
+altitude : -77.50508681737827
+Falling
+altitude : -77.50508681737827
+Falling
+altitude : -77.50508681737827
+Falling
+altitude : -77.50508681737827
+Falling
+altitude : -76.68689178037053
+Falling
+altitude : -76.68689178037053
+Falling
+altitude : -76.68689178037053
+Falling
+altitude : -76.68689178037053
+Falling
+altitude : -76.7665903917652
+Falling
+altitude : -76.7665903917652
+Falling
+altitude : -76.7665903917652
+Falling
+altitude : -76.7665903917652
+Falling
+altitude : -76.6181135532571
+Falling
+altitude : -76.6181135532571
+Falling
+altitude : -76.6181135532571
+Falling
+altitude : -76.6181135532571
+Falling
+altitude : -75.64742124736988
+Falling
+altitude : -75.64742124736988
+Falling
+altitude : -75.64742124736988
+Falling
+altitude : -75.64742124736988
+Falling
+altitude : -74.29983032098849
+Falling
+altitude : -74.29983032098849
+Falling
+altitude : -74.29983032098849
+Falling
+altitude : -74.29983032098849
+Falling
+altitude : -73.24928825177915
+Falling
+altitude : -73.24928825177915
+Falling
+altitude : -73.24928825177915
+Falling
+altitude : -73.24928825177915
+Falling
+altitude : -73.10064798737216
+Falling
+altitude : -73.10064798737216
+Falling
+altitude : -73.10064798737216
+Falling
+altitude : -73.10064798737216
+Falling
+altitude : -73.10064798737216
+Falling
+altitude : -73.55332265943716
+Falling
+altitude : -73.55332265943716
+Falling
+altitude : -73.55332265943716
+Falling
+altitude : -73.55332265943716
+Falling
+altitude : -73.7813702280257
+Falling
+altitude : -73.7813702280257
+Falling
+altitude : -73.7813702280257
+Falling
+altitude : -73.7813702280257
+Falling
+altitude : -73.41140368765943
+Falling
+altitude : -73.41140368765943
+Falling
+altitude : -73.41140368765943
+Falling
+altitude : -73.41140368765943
+Falling
+altitude : -72.36056076126523
+Falling
+altitude : -72.36056076126523
+Falling
+altitude : -72.36056076126523
+Falling
+altitude : -72.36056076126523
+Falling
+altitude : -72.7372838964185
+Falling
+altitude : -72.7372838964185
+Falling
+altitude : -72.7372838964185
+Falling
+altitude : -72.7372838964185
+Falling
+altitude : -73.11402209077436
+Falling
+altitude : -73.11402209077436
+Falling
+altitude : -73.11402209077436
+Falling
+altitude : -73.11402209077436
+Falling
+altitude : -72.28783691340618
+Falling
+altitude : -72.28783691340618
+Falling
+altitude : -72.28783691340618
+Falling
+altitude : -72.28783691340618
+Falling
+altitude : -72.7372838964185
+Falling
+altitude : -72.7372838964185
+Falling
+altitude : -72.7372838964185
+Falling
+altitude : -72.7372838964185
+Falling
+altitude : -72.4365612363973
+Falling
+altitude : -72.4365612363973
+Falling
+altitude : -72.4365612363973
+Falling
+altitude : -72.4365612363973
+Falling
+altitude : -72.4365612363973
+Falling
+altitude : -73.03468053440538
+Falling
+altitude : -73.03468053440538
+Falling
+altitude : -73.03468053440538
+Falling
+altitude : -73.03468053440538
+Falling
+altitude : -72.8859879396042
+Falling
+altitude : -72.8859879396042
+Falling
+altitude : -72.8859879396042
+Falling
+altitude : -72.8859879396042
+Falling
+altitude : -73.11069115489218
+Falling
+altitude : -73.11069115489218
+Falling
+altitude : -73.11069115489218
+Falling
+altitude : -73.03468053440538
+Falling
+altitude : -73.03468053440538
+Falling
+altitude : -73.03468053440538
+Falling
+altitude : -73.03468053440538
+Falling
+altitude : -73.18670384784429
+Falling
+altitude : -73.18670384784429
+Falling
+altitude : -73.18670384784429
+Falling
+altitude : -73.18670384784429
+Falling
+altitude : -73.63609677070646
+Falling
+altitude : -73.63609677070646
+Falling
+altitude : -73.63609677070646
+Falling
+altitude : -73.63609677070646
+Falling
+altitude : -73.7881418999051
+Falling
+altitude : -73.7881418999051
+Falling
+altitude : -73.7881418999051
+Falling
+altitude : -73.7881418999051
+Falling
+altitude : -34.240366881821856
+Falling
+altitude : -34.240366881821856
+Falling
+altitude : -34.240366881821856
+Falling
+altitude : -34.240366881821856
+Falling
+altitude : -34.240366881821856
+Falling
+altitude : -73.19003761928523
+Falling
+altitude : -73.19003761928523
+Falling
+altitude : -73.19003761928523
+Falling
+altitude : -73.19003761928523
+Falling
+altitude : -73.49745717087568
+Falling
+altitude : -73.49745717087568
+Falling
+altitude : -73.49745717087568
+Falling
+altitude : -73.49745717087568
+Falling
+altitude : -73.27270324059677
+Falling
+altitude : -73.27270324059677
+Falling
+altitude : -73.27270324059677
+Falling
+altitude : -73.27270324059677
+Falling
+altitude : -73.43138175143908
+Falling
+altitude : -73.43138175143908
+Falling
+altitude : -73.43138175143908
+Falling
+altitude : -73.43138175143908
+Falling
+altitude : -73.88429808075354
+Falling
+altitude : -73.88429808075354
+Falling
+altitude : -73.88429808075354
+Falling
+altitude : -73.88429808075354
+Falling
+altitude : -73.13383131426613
+Falling
+altitude : -73.13383131426613
+Falling
+altitude : -73.13383131426613
+Falling
+altitude : -73.13383131426613
+Falling
+altitude : -73.88762375672347
+Falling
+altitude : -73.88762375672347
+Falling
+altitude : -73.88762375672347
+Falling
+altitude : -73.88762375672347
+Falling
+altitude : -72.6113932201859
+Falling
+altitude : -72.6113932201859
+Falling
+altitude : -72.6113932201859
+Falling
+altitude : -72.6113932201859
+Falling
+altitude : -73.89094102517498
+Falling
+altitude : -73.89094102517498
+Falling
+altitude : -73.89094102517498
+Falling
+altitude : -73.89094102517498
+Falling
+altitude : -73.3652157532148
+Falling
+altitude : -73.3652157532148
+Falling
+altitude : -73.3652157532148
+Falling
+altitude : -73.3652157532148
+Falling
+altitude : -72.83947903015333
+Falling
+altitude : -72.83947903015333
+Falling
+altitude : -72.83947903015333
+Falling
+altitude : -72.83947903015333
+Falling
+altitude : -72.91551177681072
+Falling
+altitude : -72.91551177681072
+Falling
+altitude : -72.91551177681072
+Falling
+altitude : -72.91551177681072
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.76344835513552
+Falling
+altitude : -72.76344835513552
+Falling
+altitude : -72.76344835513552
+Falling
+altitude : -72.76344835513552
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -72.99154659507859
+Falling
+altitude : -73.06758348491769
+Falling
+altitude : -73.06758348491769
+Falling
+altitude : -73.06758348491769
+Falling
+altitude : -73.06758348491769
+Falling
+altitude : -73.07082753902131
+Falling
+altitude : -73.07082753902131
+Falling
+altitude : -73.07082753902131
+Falling
+altitude : -73.07082753902131
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.06758348491769
+Falling
+altitude : -73.06758348491769
+Falling
+altitude : -73.06758348491769
+Falling
+altitude : -73.06758348491769
+Falling
+altitude : -73.96699144308666
+Falling
+altitude : -73.96699144308666
+Falling
+altitude : -73.96699144308666
+Falling
+altitude : -73.96699144308666
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -73.21966347915756
+Falling
+altitude : -73.21966347915756
+Falling
+altitude : -73.21966347915756
+Falling
+altitude : -73.21966347915756
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -73.51730098981837
+Falling
+altitude : -73.51730098981837
+Falling
+altitude : -73.51730098981837
+Falling
+altitude : -73.51730098981837
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -73.29244561901237
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.99478781692204
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -73.2957065834798
+Falling
+altitude : -73.2957065834798
+Falling
+altitude : -73.2957065834798
+Falling
+altitude : -73.2957065834798
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -72.7699053904446
+Falling
+altitude : -73.67267805106314
+Falling
+altitude : -73.67267805106314
+Falling
+altitude : -73.67267805106314
+Falling
+altitude : -73.67267805106314
+Falling
+altitude : -74.1984753139662
+Falling
+altitude : -74.1984753139662
+Falling
+altitude : -74.1984753139662
+Falling
+altitude : -74.1984753139662
+Falling
+altitude : -73.15010780346546
+Falling
+altitude : -73.15010780346546
+Falling
+altitude : -73.15010780346546
+Falling
+altitude : -73.15010780346546
+Falling
+altitude : -73.22615450012498
+Falling
+altitude : -73.22615450012498
+Falling
+altitude : -73.22615450012498
+Falling
+altitude : -73.22615450012498
+Falling
+altitude : -72.85237076691601
+Falling
+altitude : -72.85237076691601
+Falling
+altitude : -72.85237076691601
+Falling
+altitude : -72.85237076691601
+Falling
+altitude : -72.85237076691601
+Falling
+altitude : -73.45430701751333
+Falling
+altitude : -73.45430701751333
+Falling
+altitude : -73.45430701751333
+Falling
+altitude : -73.45430701751333
+Falling
+altitude : -42.28372245662776
+Falling
+altitude : -42.28372245662776
+Falling
+altitude : -42.28372245662776
+Falling
+altitude : -42.28372245662776
+Falling
+altitude : -72.93161956222863
+Falling
+altitude : -72.93161956222863
+Falling
+altitude : -72.93161956222863
+Falling
+altitude : -72.93161956222863
+Falling
+altitude : -73.08371958647038
+Falling
+altitude : -73.08371958647038
+Falling
+altitude : -73.08371958647038
+Falling
+altitude : -73.08371958647038
+Falling
+altitude : -73.30866628082555
+Falling
+altitude : -73.30866628082555
+Falling
+altitude : -73.30866628082555
+Falling
+altitude : -73.30866628082555
+Falling
+altitude : -73.01086766846988
+Falling
+altitude : -73.01086766846988
+Falling
+altitude : -73.01086766846988
+Falling
+altitude : -73.01086766846988
+Falling
+altitude : -73.08692154665155
+Falling
+altitude : -73.08692154665155
+Falling
+altitude : -73.08692154665155
+Falling
+altitude : -73.08692154665155
+Falling
+altitude : -73.23903551581049
+Falling
+altitude : -73.23903551581049
+Falling
+altitude : -73.23903551581049
+Falling
+altitude : -73.23903551581049
+Falling
+altitude : -73.23903551581049
+Falling
+altitude : -73.23903551581049
+Falling
+altitude : -73.23903551581049
+Falling
+altitude : -73.23903551581049
+Falling
+altitude : -73.61613490726266
+Falling
+altitude : -73.61613490726266
+Falling
+altitude : -73.61613490726266
+Falling
+altitude : -73.61613490726266
+Falling
+altitude : -73.61613490726266
+Falling
+altitude : -73.99324934370784
+Falling
+altitude : -73.99324934370784
+Falling
+altitude : -73.99324934370784
+Falling
+altitude : -73.99324934370784
+Falling
+altitude : -73.69220252223569
+Falling
+altitude : -73.69220252223569
+Falling
+altitude : -73.69220252223569
+Falling
+altitude : -73.69220252223569
+Falling
+altitude : -73.09330019173744
+Falling
+altitude : -73.09330019173744
+Falling
+altitude : -73.09330019173744
+Falling
+altitude : -73.09330019173744
+Falling
+altitude : -72.94751680097295
+Falling
+altitude : -72.94751680097295
+Falling
+altitude : -72.94751680097295
+Falling
+altitude : -72.94751680097295
+Falling
+altitude : -72.79539676059235
+Falling
+altitude : -72.79539676059235
+Falling
+altitude : -72.79539676059235
+Falling
+altitude : -72.79539676059235
+Falling
+altitude : -73.32149123057559
+Falling
+altitude : -73.32149123057559
+Falling
+altitude : -73.32149123057559
+Falling
+altitude : -73.32149123057559
+Falling
+altitude : -72.79539676059235
+Falling
+altitude : -72.79539676059235
+Falling
+altitude : -72.79539676059235
+Falling
+altitude : -72.79539676059235
+Falling
+altitude : -73.54970090516704
+Falling
+altitude : -73.54970090516704
+Falling
+altitude : -73.54970090516704
+Falling
+altitude : -73.54970090516704
+Falling
+altitude : -72.94751680097295
+Falling
+altitude : -72.94751680097295
+Falling
+altitude : -72.94751680097295
+Falling
+altitude : -72.94751680097295
+Falling
+altitude : -73.62577493780228
+Falling
+altitude : -73.62577493780228
+Falling
+altitude : -73.62577493780228
+Falling
+altitude : -73.62577493780228
+Falling
+altitude : -73.17571239116823
+Falling
+altitude : -73.17571239116823
+Falling
+altitude : -73.17571239116823
+Falling
+altitude : -73.17571239116823
+Falling
+altitude : -73.40392661602664
+Falling
+altitude : -73.40392661602664
+Falling
+altitude : -73.40392661602664
+Falling
+altitude : -73.40392661602664
+Falling
+altitude : -73.40392661602664
+Falling
+altitude : -73.10595632791289
+Falling
+altitude : -73.10595632791289
+Falling
+altitude : -73.10595632791289
+Falling
+altitude : -73.10595632791289
+Falling
+altitude : -73.70505035427033
+Falling
+altitude : -73.70505035427033
+Falling
+altitude : -73.70505035427033
+Falling
+altitude : -73.70505035427033
+Falling
+altitude : -73.48000216517465
+Falling
+altitude : -73.48000216517465
+Falling
+altitude : -73.48000216517465
+Falling
+altitude : -73.48000216517465
+Falling
+altitude : -72.8808844421172
+Falling
+altitude : -72.8808844421172
+Falling
+altitude : -72.8808844421172
+Falling
+altitude : -72.8808844421172
+Falling
+altitude : -73.32785313728505
+Falling
+altitude : -73.32785313728505
+Falling
+altitude : -73.32785313728505
+Falling
+altitude : -73.32785313728505
+Falling
+altitude : -73.10909927717196
+Falling
+altitude : -73.10909927717196
+Falling
+altitude : -73.10909927717196
+Falling
+altitude : -73.10909927717196
+Falling
+altitude : -73.03928052362653
+Falling
+altitude : -73.03928052362653
+Falling
+altitude : -73.03928052362653
+Falling
+altitude : -73.03928052362653
+Falling
+altitude : -73.56242492773306
+Falling
+altitude : -73.56242492773306
+Falling
+altitude : -73.56242492773306
+Falling
+altitude : -73.56242492773306
+Falling
+altitude : -73.63851027339356
+Falling
+altitude : -73.63851027339356
+Falling
+altitude : -73.63851027339356
+Falling
+altitude : -73.63851027339356
+Falling
+altitude : -73.63851027339356
+Falling
+altitude : -72.81416125499315
+Falling
+altitude : -72.81416125499315
+Falling
+altitude : -72.81416125499315
+Falling
+altitude : -72.81416125499315
+Falling
+altitude : -73.86677873083003
+Falling
+altitude : -73.86677873083003
+Falling
+altitude : -73.86677873083003
+Falling
+altitude : -73.86677873083003
+Falling
+altitude : -74.01896805244796
+Falling
+altitude : -74.01896805244796
+Falling
+altitude : -74.01896805244796
+Falling
+altitude : -74.01896805244796
+Falling
+altitude : -73.34361029219613
+Falling
+altitude : -73.34361029219613
+Falling
+altitude : -73.34361029219613
+Falling
+altitude : -73.34361029219613
+Falling
+altitude : -72.4460968517513
+Falling
+altitude : -72.4460968517513
+Falling
+altitude : -72.4460968517513
+Falling
+altitude : -72.4460968517513
+Falling
+altitude : -72.66819156557412
+Falling
+altitude : -72.66819156557412
+Falling
+altitude : -72.66819156557412
+Falling
+altitude : -72.66819156557412
+Falling
+altitude : -72.97251385581522
+Falling
+altitude : -72.97251385581522
+Falling
+altitude : -72.97251385581522
+Falling
+altitude : -72.97251385581522
+Falling
+altitude : -72.82034857085007
+Falling
+altitude : -72.82034857085007
+Falling
+altitude : -72.82034857085007
+Falling
+altitude : -72.82034857085007
+Falling
+altitude : -72.74734719711013
+Falling
+altitude : -72.74734719711013
+Falling
+altitude : -72.74734719711013
+Falling
+altitude : -72.74734719711013
+Falling
+altitude : -72.89643017839116
+Falling
+altitude : -72.89643017839116
+Falling
+altitude : -72.89643017839116
+Falling
+altitude : -72.89643017839116
+Falling
+altitude : -72.89643017839116
+Falling
+altitude : -72.44303844018356
+Falling
+altitude : -72.44303844018356
+Falling
+altitude : -72.44303844018356
+Falling
+altitude : -72.44303844018356
+Falling
+altitude : -73.71776325942737
+Falling
+altitude : -73.71776325942737
+Falling
+altitude : -73.71776325942737
+Falling
+altitude : -73.71776325942737
+Falling
+altitude : -73.41969790931832
+Falling
+altitude : -73.41969790931832
+Falling
+altitude : -73.41969790931832
+Falling
+altitude : -73.41969790931832
+Falling
+altitude : -74.02214493087891
+Falling
+altitude : -74.02214493087891
+Falling
+altitude : -74.02214493087891
+Falling
+altitude : -74.02214493087891
+Falling
+altitude : -73.41969790931832
+Falling
+altitude : -73.41969790931832
+Falling
+altitude : -73.41969790931832
+Falling
+altitude : -73.41969790931832
+Falling
+altitude : -73.12158667831349
+Falling
+altitude : -73.12158667831349
+Falling
+altitude : -73.12158667831349
+Falling
+altitude : -73.12158667831349
+Falling
+altitude : -73.80016704293125
+Falling
+altitude : -73.80016704293125
+Falling
+altitude : -73.80016704293125
+Falling
+altitude : -73.80016704293125
+Falling
+altitude : -73.65423956794825
+Falling
+altitude : -73.65423956794825
+Falling
+altitude : -73.65423956794825
+Falling
+altitude : -73.65423956794825
+Falling
+altitude : -73.58125778657181
+Falling
+altitude : -73.58125778657181
+Falling
+altitude : -73.58125778657181
+Falling
+altitude : -73.58125778657181
+Falling
+altitude : -73.58125778657181
+Falling
+altitude : -73.58125778657181
+Falling
+altitude : -73.58125778657181
+Falling
+altitude : -73.58125778657181
+Falling
+altitude : -73.58125778657181
+Falling
+altitude : -72.83566902659125
+Falling
+altitude : -72.83566902659125
+Falling
+altitude : -72.83566902659125
+Falling
+altitude : -72.83566902659125
+Falling
+altitude : -72.75957536067838
+Falling
+altitude : -72.75957536067838
+Falling
+altitude : -72.75957536067838
+Falling
+altitude : -72.75957536067838
+Falling
+altitude : -73.05784266126368
+Falling
+altitude : -73.05784266126368
+Falling
+altitude : -73.05784266126368
+Falling
+altitude : -73.05784266126368
+Falling
+altitude : -76.58430597378506
+Falling
+altitude : -76.58430597378506
+Falling
+altitude : -76.58430597378506
+Falling
+altitude : -76.58430597378506
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -74.40902528077073
+Falling
+altitude : -74.40902528077073
+Falling
+altitude : -74.40902528077073
+Falling
+altitude : -74.40902528077073
+Falling
+altitude : -73.73346446549857
+Falling
+altitude : -73.73346446549857
+Falling
+altitude : -73.73346446549857
+Falling
+altitude : -73.73346446549857
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.05784266126368
+Falling
+altitude : -73.05784266126368
+Falling
+altitude : -73.05784266126368
+Falling
+altitude : -73.05784266126368
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -73.43525813054939
+Falling
+altitude : -73.43525813054939
+Falling
+altitude : -73.43525813054939
+Falling
+altitude : -73.43525813054939
+Falling
+altitude : -72.75957536067838
+Falling
+altitude : -72.75957536067838
+Falling
+altitude : -72.75957536067838
+Falling
+altitude : -72.75957536067838
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.75347818106668
+Falling
+altitude : -72.75347818106668
+Falling
+altitude : -72.75347818106668
+Falling
+altitude : -72.75347818106668
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -72.30305682538953
+Falling
+altitude : -72.30305682538953
+Falling
+altitude : -72.30305682538953
+Falling
+altitude : -72.30305682538953
+Falling
+altitude : -72.30305682538953
+Falling
+altitude : -73.27996720993997
+Falling
+altitude : -73.27996720993997
+Falling
+altitude : -73.27996720993997
+Falling
+altitude : -73.27996720993997
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.43216298342546
+Falling
+altitude : -73.43216298342546
+Falling
+altitude : -73.43216298342546
+Falling
+altitude : -73.43216298342546
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.73034111663424
+Falling
+altitude : -73.73034111663424
+Falling
+altitude : -73.73034111663424
+Falling
+altitude : -73.73034111663424
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -73.05477009183309
+Falling
+altitude : -73.05477009183309
+Falling
+altitude : -73.05477009183309
+Falling
+altitude : -73.05477009183309
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.2830567065186
+Falling
+altitude : -73.2830567065186
+Falling
+altitude : -73.2830567065186
+Falling
+altitude : -73.2830567065186
+Falling
+altitude : -72.90565628198185
+Falling
+altitude : -72.90565628198185
+Falling
+altitude : -72.90565628198185
+Falling
+altitude : -72.90565628198185
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.20695909874212
+Falling
+altitude : -73.73034111663424
+Falling
+altitude : -73.73034111663424
+Falling
+altitude : -73.73034111663424
+Falling
+altitude : -73.73034111663424
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -73.88255042267822
+Falling
+altitude : -73.88255042267822
+Falling
+altitude : -73.88255042267822
+Falling
+altitude : -73.88255042267822
+Falling
+altitude : -73.88255042267822
+Falling
+altitude : -73.50826397447287
+Falling
+altitude : -73.50826397447287
+Falling
+altitude : -73.50826397447287
+Falling
+altitude : -73.50826397447287
+Falling
+altitude : -72.68044222598523
+Falling
+altitude : -72.68044222598523
+Falling
+altitude : -72.68044222598523
+Falling
+altitude : -72.68044222598523
+Falling
+altitude : -72.52827089206592
+Falling
+altitude : -72.52827089206592
+Falling
+altitude : -72.52827089206592
+Falling
+altitude : -72.52827089206592
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.57814008887543
+Falling
+altitude : -73.57814008887543
+Falling
+altitude : -73.57814008887543
+Falling
+altitude : -73.57814008887543
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.97867869278427
+Falling
+altitude : -72.30002941387491
+Falling
+altitude : -72.30002941387491
+Falling
+altitude : -72.30002941387491
+Falling
+altitude : -72.30002941387491
+Falling
+altitude : -72.82650210367433
+Falling
+altitude : -72.82650210367433
+Falling
+altitude : -72.82650210367433
+Falling
+altitude : -72.82650210367433
+Falling
+altitude : -72.45218832960555
+Falling
+altitude : -72.45218832960555
+Falling
+altitude : -72.45218832960555
+Falling
+altitude : -72.45218832960555
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.42905938584282
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -73.35606406190308
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -72.98174843684787
+Falling
+altitude : -73.43216298342546
+Falling
+altitude : -73.43216298342546
+Falling
+altitude : -73.43216298342546
+Falling
+altitude : -73.43216298342546
+Falling
+altitude : -72.60739423730749
+Falling
+altitude : -72.60739423730749
+Falling
+altitude : -72.60739423730749
+Falling
+altitude : -72.60739423730749
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.83262183831563
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.05477009183309
+Falling
+altitude : -73.05477009183309
+Falling
+altitude : -73.05477009183309
+Falling
+altitude : -73.05477009183309
+Falling
+altitude : -72.68044222598523
+Falling
+altitude : -72.68044222598523
+Falling
+altitude : -72.68044222598523
+Falling
+altitude : -72.68044222598523
+Falling
+altitude : -72.90565628198185
+Falling
+altitude : -72.90565628198185
+Falling
+altitude : -72.90565628198185
+Falling
+altitude : -72.90565628198185
+Falling
+altitude : -73.20387242758054
+Falling
+altitude : -73.20387242758054
+Falling
+altitude : -73.20387242758054
+Falling
+altitude : -73.20387242758054
+Falling
+altitude : -73.20387242758054
+Falling
+altitude : -73.27996720993997
+Falling
+altitude : -73.27996720993997
+Falling
+altitude : -73.27996720993997
+Falling
+altitude : -73.27996720993997
+Falling
+altitude : -72.22999377999346
+Falling
+altitude : -72.22999377999346
+Falling
+altitude : -72.22999377999346
+Falling
+altitude : -72.22999377999346
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -73.1308635605005
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.60435552420388
+Falling
+altitude : -72.82956619671513
+Falling
+altitude : -72.82956619671513
+Falling
+altitude : -72.82956619671513
+Falling
+altitude : -72.82956619671513
+Falling
+altitude : -72.6013083588175
+Falling
+altitude : -72.6013083588175
+Falling
+altitude : -72.6013083588175
+Falling
+altitude : -72.6013083588175
+Falling
+altitude : -74.17434818564526
+Falling
+altitude : -74.17434818564526
+Falling
+altitude : -74.17434818564526
+Falling
+altitude : -74.17434818564526
+Falling
+altitude : -79.9457020298565
+Falling
+altitude : -79.9457020298565
+Falling
+altitude : -79.9457020298565
+Falling
+altitude : -79.9457020298565
+Falling
+altitude : -83.31898896826665
+Falling
+altitude : -83.31898896826665
+Falling
+altitude : -83.31898896826665
+Falling
+altitude : -83.31898896826665
+Falling
+altitude : -83.31898896826665
+Falling
+altitude : -86.01243973763182
+Falling
+altitude : -86.01243973763182
+Falling
+altitude : -86.01243973763182
+Falling
+altitude : -86.01243973763182
+Falling
+altitude : -89.15809830392423
+Falling
+altitude : -89.15809830392423
+Falling
+altitude : -89.15809830392423
+Falling
+altitude : -89.15809830392423
+Falling
+altitude : -92.67972948288305
+Falling
+altitude : -92.67972948288305
+Falling
+altitude : -92.67972948288305
+Falling
+altitude : -92.67972948288305
+Falling
+altitude : -95.89434347594477
+Falling
+altitude : -95.89434347594477
+Falling
+altitude : -95.89434347594477
+Falling
+altitude : -95.89434347594477
+Falling
+altitude : -98.73503335519459
+Falling
+altitude : -98.73503335519459
+Falling
+altitude : -98.73503335519459
+Falling
+altitude : -98.73503335519459
+Falling
+altitude : -101.87526698756628
+Falling
+altitude : -101.87526698756628
+Falling
+altitude : -101.87526698756628
+Falling
+altitude : -101.87526698756628
+Falling
+altitude : -104.35258725221705
+Falling
+altitude : -104.35258725221705
+Falling
+altitude : -104.35258725221705
+Falling
+altitude : -104.35258725221705
+Falling
+altitude : -106.36464351785251
+Falling
+Landing
+Separation mechanism activated
+phase :  2
+distance : 56.00969679398168
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle : 0.0
+turn right
+To destination angle : 122.22948177962486
+Heading angle :
